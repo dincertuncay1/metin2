@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonym
+LANGUAGE_ANONYMOUS_MODE	Anonym Tilstand
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Chatfilter (Land)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Chatfilter (Imperium)
+LANGUAGE_SETTINGS_OTHER	Andet
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Vis Landeflag
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Vis Empire Flag
+LANGUAGE_SETTINGS	Sprogindstillinger
+OPTION_LANGUAGE_SETTINGS	Sprogindstil.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Chatfilter: Du kan redigere, hvilke sprog der kan vises i chatten.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Vis Flag: Du kan kontrollere, om flag vises i chat, hvisken og ved siden af ??karaktertitler.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Anonym Tilstand: Dit flag vil være anonymt, men dit sprog ændres ikke.
+LANGUAGE_SETTINGS_COUNTRY	Land
+LANGUAGE_SETTINGS_EMPIRE	Imperium
+LANGUAGE_SETTINGS_SHOW_FLAG	Vis Flag
+LANGUAGE_SETTINGS_ANON_ON	På
+LANGUAGE_SETTINGS_ANON_OFF	Af
+LANGUAGE_WILL_CHANGE	Sproget ændres, når du logger ind.

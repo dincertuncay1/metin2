@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonim
+LANGUAGE_ANONYMOUS_MODE	Mod Anonim
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Filtru De Chat (Tara)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Filtru De Chat (Imperiu)
+LANGUAGE_SETTINGS_OTHER	Alte
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Afisati Steaguri De Tara
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Arata Steaguri Imperiului
+LANGUAGE_SETTINGS	Setarile De Limba
+OPTION_LANGUAGE_SETTINGS	Setarile De Lim.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Filtru De Chat: Puteti edita ce limbi pot fi afisate în chat.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Afisati steaguri: Puteti controla daca steaguri apar în chat, în soapta si lânga titlurile personajelor.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Mod Anonim: Steagul tau va fi anonim, dar limba ta nu se va schimba.
+LANGUAGE_SETTINGS_COUNTRY	Tara
+LANGUAGE_SETTINGS_EMPIRE	Imperiu
+LANGUAGE_SETTINGS_SHOW_FLAG	Arata Steagul
+LANGUAGE_SETTINGS_ANON_ON	Pe
+LANGUAGE_SETTINGS_ANON_OFF	Oprit
+LANGUAGE_WILL_CHANGE	Limba se va schimba când va conectati.

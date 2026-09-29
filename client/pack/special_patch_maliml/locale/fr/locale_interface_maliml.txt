@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonyme
+LANGUAGE_ANONYMOUS_MODE	Mode Anonyme
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Filtre De Discussion (Pays)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Filtre De Discussion (Empire)
+LANGUAGE_SETTINGS_OTHER	Autre
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Afficher Les Drapeaux Des Pays
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Afficher Les Drapeaux De l'Empire
+LANGUAGE_SETTINGS	Paramètres De Langue
+OPTION_LANGUAGE_SETTINGS	Paramètres De La.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Filtre De Discussion : Vous pouvez modifier les langues pouvant être affichées dans la discussion.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Afficher Les Drapeaux : Vous pouvez contrôler si les drapeaux apparaissent dans le chat, les chuchotements et à côté des titres des personnages.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Mode Anonyme : Votre drapeau sera anonyme mais votre langue ne changera pas.
+LANGUAGE_SETTINGS_COUNTRY	Pays
+LANGUAGE_SETTINGS_EMPIRE	Empire
+LANGUAGE_SETTINGS_SHOW_FLAG	Afficher Le Drapeau
+LANGUAGE_SETTINGS_ANON_ON	Sur
+LANGUAGE_SETTINGS_ANON_OFF	Désactivé
+LANGUAGE_WILL_CHANGE	La langue changera lorsque vous vous connecterez.

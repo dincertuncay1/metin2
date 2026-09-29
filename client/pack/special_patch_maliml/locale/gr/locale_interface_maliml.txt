@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Ανώνυμος
+LANGUAGE_ANONYMOUS_MODE	Ανώνυμη λειτουργία
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Φίλτρο συνομιλίας (Χώρα)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Φίλτρο συνομιλίας (αμπίρ)
+LANGUAGE_SETTINGS_OTHER	Αλλα
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Εμφάνιση σημαιών χωρών
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Εμφάνιση σημαιών της αυτοκρατορίας
+LANGUAGE_SETTINGS	ΡΥΘΜΙΣΕΙΣ ΓΛΩΣΣΑΣ
+OPTION_LANGUAGE_SETTINGS	ΡΥΘΜΙΣΕΙΣ ΓΛΩ.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Φίλτρο συνομιλίας: Μπορείτε να επεξεργαστείτε ποιες γλώσσες μπορούν να εμφανίζονται στη συνομιλία.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Εμφάνιση σημαιών: Μπορείτε να ελέγξετε εάν οι σημαίες εμφανίζονται στη συνομιλία, στους ψιθύρους και δίπλα σε τίτλους χαρακτήρων.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Ανώνυμη λειτουργία: Η σημαία σας θα είναι ανώνυμη, αλλά η γλώσσα σας δεν θα αλλάξει.
+LANGUAGE_SETTINGS_COUNTRY	Χώρα
+LANGUAGE_SETTINGS_EMPIRE	αμπίρ
+LANGUAGE_SETTINGS_SHOW_FLAG	Εμφάνιση σημαίας
+LANGUAGE_SETTINGS_ANON_ON	Επί
+LANGUAGE_SETTINGS_ANON_OFF	Μακριά από
+LANGUAGE_WILL_CHANGE	Η γλώσσα θα αλλάξει όταν συνδεθείτε.

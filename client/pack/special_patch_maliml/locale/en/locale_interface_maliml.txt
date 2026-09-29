@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonymous
+LANGUAGE_ANONYMOUS_MODE	Anonymous Mode
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Chat Filter (Country)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Chat Filter (Empire)
+LANGUAGE_SETTINGS_OTHER	Other
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Show Country Flags
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Show Empire Flags
+LANGUAGE_SETTINGS	Language Settings
+OPTION_LANGUAGE_SETTINGS	Language Sett.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Chat Filter: You can edit which languages can be displayed in the chat.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Show Flags: You can control whether flags appear in chat, whispers, and next to character titles.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Anonymous Mode: Your flag will be anonymous but your language will not change.
+LANGUAGE_SETTINGS_COUNTRY	Country
+LANGUAGE_SETTINGS_EMPIRE	Empire
+LANGUAGE_SETTINGS_SHOW_FLAG	Show Flag
+LANGUAGE_SETTINGS_ANON_ON	On
+LANGUAGE_SETTINGS_ANON_OFF	Off
+LANGUAGE_WILL_CHANGE	The language will change when you log in.

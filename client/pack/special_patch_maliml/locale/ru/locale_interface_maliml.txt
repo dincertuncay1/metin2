@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Анонимный
+LANGUAGE_ANONYMOUS_MODE	Анонимный Режим
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Фильтр чата (Страна)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Фильтр чата (Империя)
+LANGUAGE_SETTINGS_OTHER	Другой
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Показать флаги стран
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Показать флаги империи
+LANGUAGE_SETTINGS	Языковые настройки
+OPTION_LANGUAGE_SETTINGS	Языковые нас.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Фильтр чата: вы можете изменить языки, которые будут отображаться в чате.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Показывать флаги: вы можете контролировать, будут ли флаги появляться в чате, при шепоте и рядом с названиями персонажей.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Анонимный режим: ваш флаг будет анонимным, но ваш язык не изменится.
+LANGUAGE_SETTINGS_COUNTRY	Страна
+LANGUAGE_SETTINGS_EMPIRE	Империя
+LANGUAGE_SETTINGS_SHOW_FLAG	Показать флаг
+LANGUAGE_SETTINGS_ANON_ON	На
+LANGUAGE_SETTINGS_ANON_OFF	Выключенный
+LANGUAGE_WILL_CHANGE	Язык изменится при входе в систему.

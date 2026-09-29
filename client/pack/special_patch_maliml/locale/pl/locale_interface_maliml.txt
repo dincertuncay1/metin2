@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonimowy
+LANGUAGE_ANONYMOUS_MODE	Tryb Anonimowy
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Filtr Czatu (Kraj)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Filtr Czatu (Imperium)
+LANGUAGE_SETTINGS_OTHER	Inny
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Pokaz Flagi Krajów
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Pokaz Flagi Imperium
+LANGUAGE_SETTINGS	Ustawienia Jezyka
+OPTION_LANGUAGE_SETTINGS	Ustawienia Jez.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Filtr Czatu: Mozesz edytowac, które jezyki moga byc wyswietlane na czacie.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Pokaz Flagi: Mozesz kontrolowac, czy flagi pojawiaja sie na czacie, szeptach i obok tytulów postaci.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Tryb Anonimowy: Twoja flaga bedzie anonimowa, ale Twój jezyk nie ulegnie zmianie.
+LANGUAGE_SETTINGS_COUNTRY	Kraj
+LANGUAGE_SETTINGS_EMPIRE	Imperium
+LANGUAGE_SETTINGS_SHOW_FLAG	Pokaz Flage
+LANGUAGE_SETTINGS_ANON_ON	Na
+LANGUAGE_SETTINGS_ANON_OFF	Wylaczony
+LANGUAGE_WILL_CHANGE	Jezyk zmieni sie po zalogowaniu.

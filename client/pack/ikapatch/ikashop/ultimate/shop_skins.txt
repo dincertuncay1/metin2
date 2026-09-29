@@ -1,0 +1,7 @@
+1	d:/ymir work/npc2/privateshop_1	privateshop_1
+2	d:/ymir work/npc2/privateshop_2	privateshop_2
+3	d:/ymir work/npc2/privateshop_3	privateshop_3
+4	d:/ymir work/npc2/privateshop_4	privateshop_4
+5	d:/ymir work/npc2/privateshop_5	privateshop_5
+6	d:/ymir work/npc2/privateshop_6	privateshop_6
+7	d:/ymir work/npc2/privateshop_7	privateshop_7

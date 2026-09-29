@@ -1,0 +1,7 @@
+*.patch
+*.orig
+*.rej
+
+__trash*/
+.vscode/
+

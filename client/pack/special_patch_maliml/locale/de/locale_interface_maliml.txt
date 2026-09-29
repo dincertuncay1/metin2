@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonym
+LANGUAGE_ANONYMOUS_MODE	Anonym Modus
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Chat-Filter (Land)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Chat-Filter (Empire)
+LANGUAGE_SETTINGS_OTHER	Andere
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Länderflaggen Anzeigen
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Flaggen des Imperiums Anzeigen
+LANGUAGE_SETTINGS	Spracheinstellungen
+OPTION_LANGUAGE_SETTINGS	Spracheinstel.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Chat-Filter: Sie können bearbeiten, welche Sprachen im Chat angezeigt werden können.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Flaggen anzeigen: Sie können steuern, ob Flaggen im Chat, im Flüsterton und neben den Charaktertiteln angezeigt werden.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Anonymous Mode: Ihre Flagge bleibt anonym, Ihre Sprache ändert sich jedoch nicht.
+LANGUAGE_SETTINGS_COUNTRY	Land
+LANGUAGE_SETTINGS_EMPIRE	Reich
+LANGUAGE_SETTINGS_SHOW_FLAG	Flagge Anzeigen
+LANGUAGE_SETTINGS_ANON_ON	An
+LANGUAGE_SETTINGS_ANON_OFF	Aus
+LANGUAGE_WILL_CHANGE	Die Sprache ändert sich, wenn Sie sich anmelden.

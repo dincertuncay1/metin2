@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonymní
+LANGUAGE_ANONYMOUS_MODE	Anonymní Režim
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Filtr Chatu (Zeme)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Filtr Chatu (Impérium)
+LANGUAGE_SETTINGS_OTHER	Jiný
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Zobrazit Vlajky Zemí
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Zobrazit ríšské Vlajky
+LANGUAGE_SETTINGS	Nastavení Jazyka
+OPTION_LANGUAGE_SETTINGS	Nastavení Jaz.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Filtr Chatu: Mužete upravit, které jazyky mohou být zobrazeny v chate.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Zobrazit Príznaky: Mužete urcit, zda se príznaky objeví v chatu, šepotu a vedle názvu postav.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Anonymní Režim: Vaše vlajka bude anonymní, ale váš jazyk se nezmení.
+LANGUAGE_SETTINGS_COUNTRY	Zeme
+LANGUAGE_SETTINGS_EMPIRE	Ríše
+LANGUAGE_SETTINGS_SHOW_FLAG	Zobrazit Vlajku
+LANGUAGE_SETTINGS_ANON_ON	Na
+LANGUAGE_SETTINGS_ANON_OFF	Vypnuto
+LANGUAGE_WILL_CHANGE	Jazyk se zmení, když se prihlásíte.

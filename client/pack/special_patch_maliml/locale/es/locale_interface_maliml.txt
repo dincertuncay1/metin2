@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anónimo
+LANGUAGE_ANONYMOUS_MODE	Modo Anónimo
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Filtro De Chat (País)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Filtro De Chat (Imperio)
+LANGUAGE_SETTINGS_OTHER	Otro
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Mostrar Nanderas De Países
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Mostrar Banderas Del Imperio
+LANGUAGE_SETTINGS	Ajustes De Idioma
+OPTION_LANGUAGE_SETTINGS	Ajustes De Idi.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Filtro de chat: Puede editar qué idiomas se pueden mostrar en el chat.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Mostrar Banderas: Puedes controlar si las banderas aparecen en el chat, en los susurros y junto a los títulos de los personajes.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Modo Anónimo: Su bandera será anónima pero su idioma no cambiará.
+LANGUAGE_SETTINGS_COUNTRY	País
+LANGUAGE_SETTINGS_EMPIRE	Imperio
+LANGUAGE_SETTINGS_SHOW_FLAG	Mostrar Bandera
+LANGUAGE_SETTINGS_ANON_ON	En
+LANGUAGE_SETTINGS_ANON_OFF	Apagado
+LANGUAGE_WILL_CHANGE	El idioma cambiará cuando inicies sesión.

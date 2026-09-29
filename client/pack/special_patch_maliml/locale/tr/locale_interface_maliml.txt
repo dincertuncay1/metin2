@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anonim
+LANGUAGE_ANONYMOUS_MODE	Anonim Modu
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Sohbet Filtresi (Ülke)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Sohbet Filtresi (Krallik)
+LANGUAGE_SETTINGS_OTHER	Diger
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Ülke Bayraklarini Göster
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Krallik Bayraklarini Göster
+LANGUAGE_SETTINGS	Dil Ayarlari
+OPTION_LANGUAGE_SETTINGS	Dil Ayarlari
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Sohbet Filtresi: Sohbette hangi dillerin görüntülenebilecegini düzenleyebilirsiniz.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Bayraklari Göster: Bayraklarin sohbette, özel mesajlarda ve karakter basliklarinin yaninda görünüp görünmeyecegini kontrol edebilirsiniz.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Anonim Modu: Bayraginiz anonim olarak gözükecek ancak diliniz degismeyecektir.
+LANGUAGE_SETTINGS_COUNTRY	Ülke
+LANGUAGE_SETTINGS_EMPIRE	Krallik
+LANGUAGE_SETTINGS_SHOW_FLAG	Bayrak Göster
+LANGUAGE_SETTINGS_ANON_ON	Aç
+LANGUAGE_SETTINGS_ANON_OFF	Kapat
+LANGUAGE_WILL_CHANGE	Giriþ yaptýðýnýzda dil deðiþecektir.

@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anônimo
+LANGUAGE_ANONYMOUS_MODE	Modo Anônimo
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Filtro De Bate-Papo (País)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Filtro De Bate-Papo (Império)
+LANGUAGE_SETTINGS_OTHER	Outro
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Mostrar Bandeiras Do País
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Mostrar Bandeiras Do Império
+LANGUAGE_SETTINGS	Configurações De Linguagem
+OPTION_LANGUAGE_SETTINGS	Configurações De Lin.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Filtro De Bate-Papo: Você pode editar quais idiomas podem ser exibidos no bate-papo.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Mostrar Sinalizadores: Você pode controlar se os sinalizadores aparecem no bate-papo, nos sussurros e ao lado dos títulos dos personagens.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Modo Anônimo: Sua bandeira será anônima, mas seu idioma não mudará.
+LANGUAGE_SETTINGS_COUNTRY	País
+LANGUAGE_SETTINGS_EMPIRE	Império
+LANGUAGE_SETTINGS_SHOW_FLAG	Mostrar Bandeira
+LANGUAGE_SETTINGS_ANON_ON	Sobre
+LANGUAGE_SETTINGS_ANON_OFF	Desligado
+LANGUAGE_WILL_CHANGE	O idioma mudará quando você fizer login.

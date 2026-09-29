@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Anoniem
+LANGUAGE_ANONYMOUS_MODE	Anonieme Modus
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Chatfilter (Land)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Chatfilter (Empire)
+LANGUAGE_SETTINGS_OTHER	Ander
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Toon Landvlaggen
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Toon Empire-Vlaggen
+LANGUAGE_SETTINGS	Taal Instellingen
+OPTION_LANGUAGE_SETTINGS	Taal Instel.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Chatfilter: U kunt bewerken welke talen in de chat kunnen worden weergegeven.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Vlaggen Tonen: Je kunt bepalen of vlaggen verschijnen in chats, gefluister en naast karaktertitels.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Anonieme Modus: Uw vlag is anoniem, maar uw taal verandert niet.
+LANGUAGE_SETTINGS_COUNTRY	Land
+LANGUAGE_SETTINGS_EMPIRE	Empire
+LANGUAGE_SETTINGS_SHOW_FLAG	Vlag Tonen
+LANGUAGE_SETTINGS_ANON_ON	Op
+LANGUAGE_SETTINGS_ANON_OFF	Uit
+LANGUAGE_WILL_CHANGE	De taal verandert wanneer u inlogt.

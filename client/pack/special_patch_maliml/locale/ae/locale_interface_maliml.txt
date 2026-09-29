@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	דÌוזב
+LANGUAGE_ANONYMOUS_MODE	זÖÚ דÌוזב
+LANGUAGE_SETTINGS_FILTER_COUNTRY	דÑÔÍ ÇבÏÑÏÔÉ (ÇבÈבÏ)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	דÑÔÍ ÇבÏÑÏÔÉ (ÇבÅדÈÑÇØזÑםÉ)
+LANGUAGE_SETTINGS_OTHER	ÂÎÑ
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	ÚÑÖ ÃÚבÇד ÇבÏזב
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	ÚÑÖ ÃÚבÇד ÇבÅדÈÑÇØזÑםÉ
+LANGUAGE_SETTINGS	ÇÚÏÇÏÇÊ ÇבבÛÉ
+OPTION_LANGUAGE_SETTINGS	ÇÚÏÇÏÇÊ ÇבבÛÉ
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	דÑÔÍ ÇבÏÑÏÔÉ: םד‗ה‗ ÊÚÏםב ÇבבÛÇÊ ÇבÊם םד‗ה ÚÑÖוÇ Ýם ÇבÏÑÏÔÉ.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	ÅÙוÇÑ ÇבÃÚבÇד: םד‗ה‗ ÇבÊÍ‗ד Ýם ÙוזÑ ÇבÃÚבÇד Ýם ÇבÏÑÏÔÉ זÇבודÓÇÊ זÈÌזÇÑ ÚהÇזםה ÇבÔÎÕםÇÊ.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	ÇבזÖÚ ÇבדÌוזב: Óם‗זה Úבד‗ דÌוזבÇנ זב‗ה בÛÊ‗ בה ÊÊÛםÑ.
+LANGUAGE_SETTINGS_COUNTRY	ÏזבÉ
+LANGUAGE_SETTINGS_EMPIRE	ÅדÈÑÇØזÑםÉ
+LANGUAGE_SETTINGS_SHOW_FLAG	ÅÙוÇÑ ÇבÚבד
+LANGUAGE_SETTINGS_ANON_ON	Úבל
+LANGUAGE_SETTINGS_ANON_OFF	Úה
+LANGUAGE_WILL_CHANGE	ÓזÝ ÊÊÛםÑ ÇבבÛÉ ÚהÏ ÊÓÌםב ÇבÏÎזב.

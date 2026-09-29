@@ -1,0 +1,18 @@
+LANGUAGE_ANONYMOUS	Névtelen
+LANGUAGE_ANONYMOUS_MODE	Névtelen Mód
+LANGUAGE_SETTINGS_FILTER_COUNTRY	Csevegés Szuro (Ország)
+LANGUAGE_SETTINGS_FILTER_EMPIRE	Csevegés Szuro (Empire)
+LANGUAGE_SETTINGS_OTHER	Egyéb
+LANGUAGE_SETTINGS_SHOW_FLAG_COUNTRY	Országzászló Megjelenítése
+LANGUAGE_SETTINGS_SHOW_FLAG_EMPIRE	Mutasd A Birodalom Zászlóit
+LANGUAGE_SETTINGS	Nyelvi Beállítások
+OPTION_LANGUAGE_SETTINGS	Nyelvi Beáll.
+LANGUAGE_SETTINGS_TOOLTIP_LINE1	Csevegésszuro: Módosíthatja, hogy mely nyelvek jelenjenek meg a csevegésben.
+LANGUAGE_SETTINGS_TOOLTIP_LINE2	Zászlók Megjelenítése: Beállíthatja, hogy a zászlók megjelenjenek-e a csevegésben, a suttogásban és a karakterek címei mellett.
+LANGUAGE_SETTINGS_TOOLTIP_LINE3	Névtelen Mód: A zászló névtelen lesz, de a nyelve nem változik.
+LANGUAGE_SETTINGS_COUNTRY	Ország
+LANGUAGE_SETTINGS_EMPIRE	Empire
+LANGUAGE_SETTINGS_SHOW_FLAG	Zászló Megjelenítése
+LANGUAGE_SETTINGS_ANON_ON	Tovább
+LANGUAGE_SETTINGS_ANON_OFF	Ki
+LANGUAGE_WILL_CHANGE	A nyelv megváltozik, amikor bejelentkezik.
